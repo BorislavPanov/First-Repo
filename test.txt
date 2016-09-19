@@ -2,6 +2,6 @@ nov file
 
 "Update with Tortoise…"
 Tortoise
-"Updating whit Bash...."
+"Updating whit Bash..."
 
 
